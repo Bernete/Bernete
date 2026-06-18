@@ -62,25 +62,6 @@
 
 ---
 
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bernete&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bernete&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 ## 🎯 Objetivos para 2026
 
@@ -98,7 +79,6 @@
 ```text
 ☕ Java avanzado
 📱 Android con Kotlin
-🗄️ Diseño de Bases de Datos
 🐳 Docker
 🌱 Spring Boot
 🤖 Inteligencia Artificial
@@ -106,15 +86,6 @@
 
 ---
 
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernete&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 📫 Contacto
 
